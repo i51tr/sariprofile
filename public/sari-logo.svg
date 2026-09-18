@@ -1,0 +1,54 @@
+<svg viewBox="0 0 600 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Prongs on Top of the Plug -->
+  <rect x="100" y="32" width="16" height="46" rx="8" fill="#97B3CD"/>
+  <rect x="138" y="32" width="16" height="46" rx="8" fill="#97B3CD"/>
+
+  <!-- Plug Collar (Shoulder) -->
+  <rect x="76" y="74" width="102" height="18" rx="4" fill="#1E4870"/>
+
+  <!-- Plug Body -->
+  <path d="M85 92 H169 V122 C169 152, 85 152, 85 122 Z" fill="#1E4870"/>
+
+  <!-- Plug Neck (Cable exit base) -->
+  <rect x="119" y="152" width="16" height="12" rx="3" fill="#1E4870"/>
+
+  <!-- Golden Lightning Bolt Inside Plug -->
+  <path d="M129 101 L116 122 H126 L121 142 L137 118 H127 L132 101 Z" fill="#F6BC36"/>
+
+  <!-- Smooth Cable Arc connecting Plug to Wordmark -->
+  <path d="M127 164 C127 194, 155 200, 180 184 C195 174, 204 162, 222 152" stroke="#1E4870" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- SARI Arabic Wordmark -->
+  <g fill="#1E4870">
+    <!-- Letter Yaa (ي) connecting seamlessly to the cable on left -->
+    <!-- Curved entry and body of Yaa -->
+    <path d="M214 146 C214 130, 226 120, 242 120 H284 V160 H238 C222 160, 214 154, 214 146 Z"/>
+    <rect x="264" y="112" width="20" height="48" rx="1"/>
+
+    <!-- Letter Raa (ر) with downward descending stroke -->
+    <path d="M296 112 H318 V160 H344 V184 H304 C296 184, 296 160, 296 160 V112 Z"/>
+
+    <!-- Letter Alif (ا) - Tall vertical pillar -->
+    <rect x="356" y="80" width="24" height="92" rx="2"/>
+
+    <!-- Letter Seen (س) - 3 distinct vertical teeth on baseline, right edge descending -->
+    <!-- Tooth 1 (inner/left) -->
+    <rect x="394" y="112" width="22" height="48" rx="1.5"/>
+    <!-- Tooth 2 (middle) -->
+    <rect x="428" y="112" width="22" height="48" rx="1.5"/>
+    <!-- Tooth 3 (outer/right) -->
+    <rect x="462" y="112" width="24" height="48" rx="1.5"/>
+    <!-- Solid Connecting Baseline -->
+    <rect x="394" y="136" width="92" height="24"/>
+    <!-- Right decorative drop characteristic of the logo typography -->
+    <rect x="466" y="152" width="20" height="24" rx="1"/>
+  </g>
+
+  <!-- Two Golden Diamonds Under Letter Yaa (Dots of Yaa) -->
+  <g fill="#F6BC36">
+    <!-- Left/Lower Diamond -->
+    <rect x="226" y="180" width="16" height="16" rx="2" transform="rotate(45 226 180)"/>
+    <!-- Right/Upper Diamond -->
+    <rect x="246" y="180" width="16" height="16" rx="2" transform="rotate(45 246 180)"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "ساري | SARI - إدارة وحماية الطاقة الذكية",
+  "description": "المنصة السعودية الرائدة للجمع بين الحماية الكهربائية الفائقة وترشيد استهلاك الطاقة وتخفيض الفواتير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
